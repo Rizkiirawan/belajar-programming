@@ -1,5 +1,10 @@
 Rencana Belajar 
-- HTML & CSS
+- HTML
+  * HTML dasar
+- CSS
+  * CSS basic
+  * CSS3
+  * CSS Layout
 - Javascript
 - PHP 
 - Python
